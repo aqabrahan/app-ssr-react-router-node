@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+build
+coverage // when I run my tests (jest), I also generate test coverage reports
